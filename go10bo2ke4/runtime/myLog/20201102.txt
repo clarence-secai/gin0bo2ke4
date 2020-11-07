@@ -1,0 +1,18 @@
+[[[info|在jwt.go文件|第49行]]]:2020/11/02 00:15:18 key is of invalid type
+[[[info|在jwt.go文件|第49行]]]:2020/11/02 00:21:15 key is of invalid type
+[[[info|在jwt.go文件|第52行]]]:2020/11/02 00:42:21 key is of invalid type
+[[[info|在jwt.go文件|第49行]]]:2020/11/02 08:55:14 key is of invalid type
+[[[info|在jwt.go文件|第49行]]]:2020/11/02 09:17:42 key is of invalid type
+[[[info|在jwt.go文件|第49行]]]:2020/11/02 09:20:02 key is of invalid type
+[[[info|在essay_mysql.go文件|第45行]]]:2020/11/02 11:10:05 Error 1406: Data too long for column 'uuid' at row 1
+[[[info|在essay_mysql.go文件|第45行]]]:2020/11/02 11:18:26 Error 1366: Incorrect string value: '\xEF\xBC\x8Dand...' for column 'content' at row 1
+[[[info|在redis.go文件|第28行]]]:2020/11/02 11:24:29 dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+[[[info|在redis.go文件|第28行]]]:2020/11/02 11:26:17 dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+[[[info|在redis.go文件|第28行]]]:2020/11/02 11:26:53 dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+[[[info|在comment_mysql.go文件|第25行]]]:2020/11/02 11:31:07 Error 1406: Data too long for column 'uuid' at row 1
+[[[info|在comment.go文件|第70行]]]:2020/11/02 11:31:07 Error 1406: Data too long for column 'uuid' at row 1
+[[[info|在redis.go文件|第28行]]]:2020/11/02 11:41:05 ERR unknown command 'exist'
+[[[info|在redis.go文件|第28行]]]:2020/11/02 11:41:35 ERR unknown command 'exist'
+[[[info|在redis.go文件|第28行]]]:2020/11/02 11:41:42 ERR unknown command 'exist'
+[[[info|在comment_mysql.go文件|第25行]]]:2020/11/02 11:44:48 Error 1062: Duplicate entry '0' for key 'PRIMARY'
+[[[info|在comment_mysql.go文件|第25行]]]:2020/11/02 12:22:51 Error 1062: Duplicate entry '0' for key 'PRIMARY'

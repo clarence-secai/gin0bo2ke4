@@ -1,0 +1,6 @@
+{
+ "RunTimePath": "runtime",
+  "HeadImagePath": "runtime/headImage",
+  "MyLogPath": "runtime/myLog",
+ "ExtensionName": ".txt"
+}

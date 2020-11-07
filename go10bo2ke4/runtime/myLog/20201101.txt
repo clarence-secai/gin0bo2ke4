@@ -1,0 +1,8 @@
+[[[info|在redis.go文件|第28行]]]:2020/11/01 21:04:39 dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it.
+[[[info|在user_mysql.go文件|第36行]]]:2020/11/01 21:38:35 Error 1054: Unknown column 'passWord' in 'where clause'
+[[[info|在jwt.go文件|第48行]]]:2020/11/01 23:04:53 key is of invalid type
+[[[info|在jwt.go文件|第48行]]]:2020/11/01 23:14:14 key is of invalid type
+[[[info|在jwt.go文件|第48行]]]:2020/11/01 23:23:52 key is of invalid type
+[[[info|在jwt.go文件|第48行]]]:2020/11/01 23:37:15 key is of invalid type
+[[[info|在jwt.go文件|第49行]]]:2020/11/01 23:41:09 key is of invalid type
+[[[info|在jwt.go文件|第49行]]]:2020/11/01 23:55:23 key is of invalid type

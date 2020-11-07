@@ -1,0 +1,8 @@
+{
+  "User": "root",
+  "Password": "413188ok",
+  "Url": "127.0.0.1",
+  "Port": "3306",
+  "DataBaseName": "bo2ke4",
+  "ChartSet": "charset=utf8mb4&parseTime=True&loc=Local"
+}
